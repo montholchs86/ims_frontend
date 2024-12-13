@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
             <Image
-              src="http://s3-ims-capstone.s3.us-east-1.amazonaws.com/logo.png"
+              src="https://s3-ims-capstone.s3.us-east-1.amazonaws.com/logo.png"
               alt="Logo"
               width={27}
               height={27}
